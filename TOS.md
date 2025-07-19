@@ -47,6 +47,6 @@ Celestia reserves the right to terminate or suspend your access to the Bot at an
 # Severability
 If any provision of these Terms of Service is found to be invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect.
 
-By using Celestia, you acknowledge that you have read, understood, and agreed to these Terms of Service. If you have any questions or concerns, please contact us at [Celestia Support Server](https://discord.gg/khdzMEJrAz).
+By using Celestia, you acknowledge that you have read, understood, and agreed to these Terms of Service. If you have any questions or concerns, please contact us at [Celestia Support Server](https://discord.gg/BCUaYVVN55).
 
 Remember to enjoy the Bot responsibly and respect the guidelines set forth in these Terms of Service. Thank you for using Celestia!
