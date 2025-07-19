@@ -32,6 +32,6 @@ We may update this Privacy Policy, and any changes will be posted on the Bot's w
 
 # Contact Us
 
-If you have questions or requests regarding this Privacy Policy or would like to request the deletion of your data, please contact us at [Celestia Support Server](https://discord.gg/khdzMEJrAz).
+If you have questions or requests regarding this Privacy Policy or would like to request the deletion of your data, please contact us at [Celestia Support Server](https://discord.gg/BCUaYVVN55).
 
 By using Celestia, you acknowledge and consent to this policy and the handling of your information as outlined above.
